@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Queue
+comment1.params=
+comment1.target=Queue()
+comment2.params=o
+comment2.target=void\ enqueue(TailoringService)
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=int\ size()
+comment5.params=
+comment5.target=TailoringService\ dequeue()
+comment6.params=
+comment6.target=TailoringService\ front()
+comment7.params=
+comment7.target=TailoringService\ rear()
+comment8.params=
+comment8.target=void\ print()
+numComments=9
